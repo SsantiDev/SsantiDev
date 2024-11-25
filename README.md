@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Parkinsans&duration=4000&pause=&center=true&vCenter=true&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Santiago!;Welcome+to+my+GitHub!" />
 </h1>
 
+<p align="center">
+  <img src="https://github.com/CodeWithSsanti/CodeWithSsanti/blob/main/28320-369325356_small.gif" alt="Mi Gigt">  
+</p>
+
+<br>
+<br>
 
 <p align="left">
     👋 Welcome to my GitHub profile! I'm Santiago, I'm 18 years old, and I'm a programmer with experience in C++*, C#, and the .NET ecosystem. I love creating innovative solutions and exploring new technologies.🚀
