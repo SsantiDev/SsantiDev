@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Parkinsans&size=35&duration=4000&pause=&center=true&vCenter=true&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Santiago!;Welcome+to+my+GitHub!" />
 </h1>
 
-<p align="center">
-  <img src="https://github.com/CodeWithSsanti/CodeWithSsanti/blob/main/28320-369325356_small.gif" alt="Mi Gigt">  
+<p align="center" >
 </p>
 
 <br>
