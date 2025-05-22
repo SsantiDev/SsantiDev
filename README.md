@@ -1,15 +1,42 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Parkinsans&size=35&duration=4000&pause=&center=true&vCenter=true&width=500&height=70&lines=Hi+There!%F0%9F%91%8B;I'm+Santiago!;Welcome+to+my+GitHub!" />
-</h1>
+<!-- 🎥 GIF decorativo arriba -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative gif" />
+</p>
+
+<!-- ⌨️ Texto animado estilo "escribiendo" -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=888888&center=true&vCenter=true&width=500&height=80&lines=Hi%2C+I'm+Santiago+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- 🎥 GIF decorativo abajo -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative gif" />
+</p>
+
 
 <p align="center" >
 </p>
 
 <br>
 <br>
+<pre>
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" />
+</picture>
 
-<p align="left">
-    👋 Welcome to my GitHub profile! I'm Santiago, I'm 18 years old, and I'm a programmer with experience in C++*, C#, and the .NET ecosystem. I love creating innovative solutions and exploring new technologies.🚀
+👋 Hello there! I'm Santiago — an 18-year-old developer passionate about coding
+    and innovation.
+🎯 I have experience with C++, C#, HTML, CSS, Python and the .NET ecosystem.
+🎓 Currently advancing my studies in software development and building projects
+    that solve real problems.
+🚀 I'm excited by challenges and driven by the opportunity to learn and create.
+🧠 Focused on writing clean, maintainable code and exploring new technologies.
+🌱 Always learning. Always improving. One commit at a time.
+
+</pre>
+
 
 <div align="Center">
 <h1>Skills</h1>
@@ -21,8 +48,8 @@
 | --------- | -------------------- |
 | <img src="https://skillicons.dev/icons?i=dotnet,html,css,cpp,python" /> | <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,git" /> |
 
-| Frameworks & Databases | |
-| ---------------------- |--|
+| Frameworks | Databases | 
+| -----------|----------- |
 | <img src="https://skillicons.dev/icons?i=dotnet" /> + <b>Entity Framework</b> | <img src="https://skillicons.dev/icons?i=mysql" /> + <b>SSMS</b> |
 
 </div>
@@ -37,10 +64,25 @@
 
 <br>
 
-# 💻 Tech Stack:
+<div align="center">
 
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-<br>
-<br>
+<h3>Redes de contacto</h3>
+
+<a href="mailto:lorenceisidoro@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/xir.rence">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://discord.com/users/729473858179956859">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/tu-usuario">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</div>
+
