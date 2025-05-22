@@ -15,28 +15,23 @@
 <h1>Skills</h1>
 </div>
 
-<div align="Center">
+<div align="center">
 
-| Website | Programming |
-| ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+| Languages | Tools & Environments |
+| --------- | -------------------- |
+| <img src="https://skillicons.dev/icons?i=dotnet,html,css,cpp,python" /> | <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,git" /> |
+
+| Frameworks & Databases | |
+| ---------------------- |--|
+| <img src="https://skillicons.dev/icons?i=dotnet" /> + <b>Entity Framework</b> | <img src="https://skillicons.dev/icons?i=mysql" /> + <b>SSMS</b> |
 
 </div>
+
 
 
 <div align="center">
 
-| SsantiDev's Stats | Ultimate Streak |
-| ----------------- | --------------- |
-| ![SsantiDev's Stats](https://github-readme-stats.vercel.app/api?username=SsantiDev&theme=onedark&show_icons=true&hide_border=true&count_private=true) | ![SsantiDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SsantiDev&theme=onedark&hide_border=true) |
-
-| Most Used Languages |
-| -------------------- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SsantiDev&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
-
-</div>
-
-
+<div align="center">
 
 </p>
 
