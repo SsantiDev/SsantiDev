@@ -69,19 +69,19 @@
 
 <h3>Redes de contacto</h3>
 
-<a href="mailto:lorenceisidoro@gmail.com">
+<a href="mailto:ssantiago.xz1130@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 &nbsp;&nbsp;
-<a href="https://instagram.com/xir.rence">
+<a href="https://www.instagram.com/santiago___l/">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 &nbsp;&nbsp;
-<a href="https://discord.com/users/729473858179956859">
+<a href="https://discord.com/users/714309425401167913">
   <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/tu-usuario">
+<a href="https://www.linkedin.com/in/santiago-p%C3%A9rez-sarabia-859b51290/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
