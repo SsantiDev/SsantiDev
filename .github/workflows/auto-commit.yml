@@ -12,9 +12,11 @@ jobs:
       - name: Clonar repositorio
         uses: actions/checkout@v3
 
-      - name: Cambiar archivo README
+      - name: Incrementar contador de días
         run: |
-          echo "- Commit del día: $(date -u)" >> README.md
+          COUNT=$(grep -oP '(?<=Días consecutivos de actividad: )\d+' README.md || echo 0)
+          NEW_COUNT=$((COUNT + 1))
+          sed -i "s/Días consecutivos de actividad: $COUNT/Días consecutivos de actividad: $NEW_COUNT/" README.md
 
       - name: Configurar Git
         run: |
