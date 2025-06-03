@@ -2,7 +2,7 @@ name: AutoCommit
 
 on:
   schedule:
-    - cron: '0 10 * * *' 
+    - cron: '0 10 * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,10 +18,12 @@ jobs:
           NEW_COUNT=$((COUNT + 1))
           sed -i "s/Días consecutivos de actividad: $COUNT/Días consecutivos de actividad: $NEW_COUNT/" README.md
 
-      - name: Configurar Git
+      - name: Configurar Git para autenticación con token
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global credential.helper 'store'
+          echo "https://x-access-token:${{ secrets.GH_TOKEN }}@github.com" > ~/.git-credentials
 
       - name: Commit y push
         run: |
