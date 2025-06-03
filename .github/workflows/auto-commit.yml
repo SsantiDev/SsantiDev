@@ -27,4 +27,4 @@ jobs:
         run: |
           git add README.md
           git commit -m "🕒 Commit automático: $(date -u)" || echo "Nada para commitear"
-          git push
+          git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
