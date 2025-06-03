@@ -18,16 +18,16 @@ jobs:
           NEW_COUNT=$((COUNT + 1))
           sed -i "s/Días consecutivos de actividad: $COUNT/Días consecutivos de actividad: $NEW_COUNT/" README.md
 
-      - name: Configurar Git para autenticación con token
+      - name: Configurar Git con token personal
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --global credential.helper 'store'
-          echo "https://x-access-token:${{ secrets.GH_TOKEN }}@github.com" > ~/.git-credentials
+          git config --global user.name "SsantiDev"
+          git config --global user.email "ssantiago.xz1130@gmail.com"
+          git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
+
 
       - name: Commit y push
         run: |
           git add README.md
           git commit -m "🕒 Commit automático: $(date -u)" || echo "Nada para commitear"
-          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
           git push origin HEAD:main
+
