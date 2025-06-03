@@ -1,0 +1,28 @@
+name: AutoCommit
+
+on:
+  schedule:
+    - cron: '0 10 * * *' 
+  workflow_dispatch:
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+
+      - name: Cambiar archivo README
+        run: |
+          echo "- Commit del día: $(date -u)" >> README.md
+
+      - name: Configurar Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit y push
+        run: |
+          git add README.md
+          git commit -m "🕒 Commit automático: $(date -u)" || echo "Nada para commitear"
+          git push
