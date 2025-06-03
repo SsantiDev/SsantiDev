@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="decorative gif" />
 </p>
-
-Dia 1
  
 <!-- ⌨️ Texto animado estilo "escribiendo" -->
 <p align="center">
@@ -89,3 +87,4 @@ Dia 1
 
 </div>
 
+- Última actualización: Tue Jun  3 23:09:56 UTC 2025
