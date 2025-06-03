@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Clonar repositorio
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
 
       - name: Modificar README
         run: |
