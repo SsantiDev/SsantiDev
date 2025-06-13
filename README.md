@@ -87,5 +87,3 @@
 
 </div>
 
-- Última actualización: Wed Jun 11 10:26:01 UTC 2025
-- Última actualización: Thu Jun 12 10:26:21 UTC 2025
