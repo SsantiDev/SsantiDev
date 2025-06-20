@@ -26,7 +26,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" />
 </picture>
 
-👋 Hello there! I'm Santiago — an 18-year-old developer passionate about coding
+👋 Hello there! I'm Santiago — an 19-year-old developer passionate about coding
     and innovation.
 🎯 I have experience with C++, C#, HTML, CSS, Python and the .NET ecosystem.
 🎓 Currently advancing my studies in software development and building projects
