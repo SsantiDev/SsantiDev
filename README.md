@@ -87,13 +87,3 @@
 
 </div>
 
-
-- Última actualización: Fri Jun 27 10:26:16 UTC 2025
-- Última actualización: Sat Jun 28 10:23:19 UTC 2025
-- Última actualización: Sun Jun 29 10:26:11 UTC 2025
-- Última actualización: Mon Jun 30 10:26:37 UTC 2025
-- Última actualización: Tue Jul  1 10:27:06 UTC 2025
-- Última actualización: Wed Jul  2 10:26:31 UTC 2025
-- Última actualización: Thu Jul  3 10:26:33 UTC 2025
-- Última actualización: Fri Jul  4 10:25:54 UTC 2025
-- Última actualización: Sat Jul  5 10:23:22 UTC 2025
