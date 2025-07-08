@@ -16,7 +16,7 @@ jobs:
 
       - name: Modificar README
         run: |
-          echo "- Última actualización: $(date -u)" >> README.md
+          echo " " >> README.md
 
       - name: Configurar Git
         run: |
