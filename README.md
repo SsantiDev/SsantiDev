@@ -42,12 +42,3 @@ integration, and containerized Linux deployments.
   <br />
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,redis,figma" alt="Tools" />
 </p>
-
----
-
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SsantiDev&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsantiDev&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" height="165" />
-</p>
